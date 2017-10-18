@@ -1,3 +1,5 @@
+<h3>Modified Bluetooth Chat works with Raspberry pi running Raspbian using python, RFCOMM</h3>
+
 This is the same Bluetooth chat app from Android samples, but little bit modified to receive bluetooth connection using services. 
 The code allowes incoming connection sending test data to the bluetooth chat. 
 
