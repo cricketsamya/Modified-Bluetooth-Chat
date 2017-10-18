@@ -1,0 +1,15 @@
+.metadata/*
+*/.setting 
+*/.setting/* 
+*/.maven 
+*/.maven/* 
+*/bin 
+*/bin/* 
+*/target 
+*/target/*
+*/.google 
+*/.google/* 
+*/.gradle
+*/.gradle/* 
+*/.iml
+*/.properties
